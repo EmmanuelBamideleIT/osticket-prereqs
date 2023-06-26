@@ -22,11 +22,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Windows OS
+- Internet Information Services
+- MySQL Database
+- PHP
+- PHP Manager for IIS 
+- Rewrite Module
+- Visual C++ Redistributable package
+- HeidiSQL
 
 <h2>Installation Steps</h2>
 
@@ -34,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/1BQfNdO.png" height="80%" width="80%" "/>
 </p>
 <p>
-Section 1: Enabling IIS with CGI and Common HTTP Features, and installing IIS Management Console
+Enabling IIS with CGI and Common HTTP Features, and installing IIS Management Console
 
 Install IIS with CGI and Common HTTP Features: Enable CGI and Common HTTP Features in the World Wide Web Services -> Application Development Features section during the installation process.
 
