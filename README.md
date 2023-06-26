@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/1BQfNdO" height="80%" width="80%" "/>
+<img src="https://i.imgur.com/1BQfNdO.png" height="80%" width="80%" "/>
 </p>
 <p>
 Section 1: Enabling IIS with CGI and Common HTTP Features, and installing IIS Management Console
