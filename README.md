@@ -31,9 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/1BQfNdO.png" height="80%" width="80%" "/>
-</p>
+
 <p>
 Enabling IIS with CGI and Common HTTP Features, and installing IIS Management Console
 
@@ -42,10 +40,10 @@ Install IIS with CGI and Common HTTP Features: Enable CGI and Common HTTP Featur
 Install IIS Management Console: Enable the IIS Management Console in the Internet Information Services -> Web Management Tools section during the installation process.
 </p>
 <br />
-
 <p>
-<img src="https://imgur.com/DRcGJ2k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1BQfNdO.png" height="80%" width="80%" "/>
 </p>
+
 <p>
 Download and install PHP Manager for IIS: Install the PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the installation files.
 
@@ -57,10 +55,10 @@ Download and unzip PHP 7.3.8: Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.z
 
 Install VC_redist.x86.exe: Download and install VC_redist.x86.exe from the installation files.</p>
 <br />
-
 <p>
-<img src="https://imgur.com/6nZK5JM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DRcGJ2k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
 Install MySQL 5.5.62: Install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the installation files. Choose the typical setup option, launch the configuration wizard, select the standard configuration, and set the password as "Password1".
 
@@ -84,3 +82,6 @@ Congratulations! Verify the installation by browsing to the help desk login page
 
 Clean-up: Delete the "C:\inetpub\wwwroot\osTicket\setup" folder and set the permissions of "C:\inetpub\wwwroot\osTicket\include\ost-config.php" to "Read-only".</p>
 <br />
+<p>
+<img src="https://imgur.com/6nZK5JM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
